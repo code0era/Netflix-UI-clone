@@ -1,1 +1,1 @@
-# Net flix ui clone using  html css js 
+# Netflix ui clone using  html css js 
